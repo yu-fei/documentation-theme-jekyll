@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
-    - title: Blog
+    - title: 博客
       external_url: http://blog.ferrisyu.com
     - title: GitHub
       external_url: https://github.com/yu-fei
@@ -12,7 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Products
+    - title: 应用
       folderitems:
         - title: Jekyll Documentation Theme
           url: /mydoc_introduction.html
