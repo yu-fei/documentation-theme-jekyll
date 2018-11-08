@@ -5,10 +5,10 @@ repository: yu-fei/documentation-theme-jekyll
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: FerrisYu的主页
+topnav_title: FerrisYu的空间
 # this appears on the top navigation bar next to the home button
 
-site_title: FerrisYu的主页
+site_title: FerrisYu的空间
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: FerrisYu
@@ -37,7 +37,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: FerrisYu的主页
+feedback_subject_line: FerrisYu的空间
 
 feedback_email: yufei_email@163.com
 # used as a contact email for the Feedback link in the top navigation bar
@@ -45,7 +45,7 @@ feedback_email: yufei_email@163.com
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
-feedback_text: "帮助与反馈"
+feedback_text: "发送邮件"
 # if you uncomment the previous line, it changes the Feedback text
 
 # feedback_link: "http://helpy.io/"

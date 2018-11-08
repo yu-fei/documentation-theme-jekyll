@@ -1,10 +1,10 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "空间简介"
 keywords: sample homepage
-tags: [getting_started]
+tags: [空间, 简介]
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about working with other aspects of this theme and Jekyll.
+summary: 作为一个编程爱好者，出于工作需要或者兴趣爱好，时常会写些小程序，于是利用空余时间搭建了个人空间，将它们分享出来。
 ---
 
 {% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>." %}
