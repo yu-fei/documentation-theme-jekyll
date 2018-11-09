@@ -3,16 +3,34 @@ title: 关于作者
 sidebar: mydoc_sidebar
 permalink: mydoc_about.html
 folder: mydoc
+layout: post
 ---
 
-My name is Tom Johnson, and I'm a technical writer, blogger, and podcaster based in San Jose, California. For more details, see my [technical writing blog](http://idratherbewriting.com) and my [course on API documentation](http://idratherbewriting.com/learnapidoc/).  See [my blog's about page](http://idratherbewriting.com/aboutme/) for more details about me.
+Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 
-I have used this theme and variations of it for various documentation projects. This theme has undergone several major iterations, and now it's fairly stable and full of all the features that I need. You are welcome to use it for your documentation projects for free.
+My Name is Yu Fei (You can also call me Ferris Yu), I am a software development engineer working in Nanjing.
 
-I think this theme does pretty much everything that you can do with something like OxygenXML, but without the constraints of structured authoring. Everything is completely open and changeable, so if you start tinkering around with the theme's files, you can break things. But it's completely empowering as well!
+## Skills
 
-With a completely open architecture and code base, you can modify the code to make it do exactly what you want, without having to jump through all kinds of confusing or proprietary code.
+- AI, Tensorflow, caffe, C/C++, python
+- Linux, bash
+- Win32, GDI, MFC, Duilib
+- java, Tomcat, js, jsp, html, css, delphi
 
-If there's a feature you need but it isn't available here, let me know and I might add it. Alternatively, if you fork the theme, I would love to see your modifications and enhancements. Thanks for using Jekyll.
+
+<!--more-->
+
+## About Me | 关于我
+
+你们好，我叫于飞，这是我的博客。
+
+我崇尚 Geek 精神与开源文化 :octocat:，喜欢简洁、优美、模块化的代码。爱折腾，折腾系统，折腾软件，折腾语言，折腾框架……生命不息，折腾不止。:muscle:
+
+平时喜欢没事跑跑步 :runner:，看看电影 :movie_camera: ，聚个餐 :rice: :notes:。一个很普通的开发者。:see_no_evil:
+
+感谢计算机给我们提供了一个完美的试验场，这里没有太多的约束，就像*我的世界*一样，是一片自由的乌托邦之地。在这里，我们可以让想象力 :thought_balloon: 自由驰骋 :rocket:，让计算机完成我们想到的事。我认为，将计算机世界和现实世界连接起来 :computer: :link: :earth_asia: 是我等猿族的使命。
+
+如果你有任何问题，请给我发送邮件：[yufei_email@163.com](mailto:yufei_email@163.com)
 
 {% include links.html %}
+

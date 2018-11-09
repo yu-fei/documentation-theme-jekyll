@@ -115,3 +115,9 @@ description: "ferrisyu's home page for study record and code sharing"
 # needed for sitemap.xml file only
 # url: http://idratherbewriting.com
 # baseurl: /documentation-theme-jekyll
+
+plugins:
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-paginate
+- jemoji
