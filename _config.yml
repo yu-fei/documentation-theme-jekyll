@@ -37,8 +37,6 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: FerrisYu的空间
-
 feedback_email: yufei_email@163.com
 # used as a contact email for the Feedback link in the top navigation bar
 
