@@ -23,7 +23,7 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 空间简介
+    - title: 首页
       url: /index.html
       output: web, pdf
       type: homepage
